@@ -2,7 +2,14 @@
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=moohammed-gaber&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+```text
+Markdown   34 mins         █████████████████████████   100.00 % 
+```
+<!--END_SECTION:waka-->
 
+-------
 <!--
 **moohammed-gaber/moohammed-gaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
