@@ -1,4 +1,4 @@
-Flutter developer with +3 years of experience in building cross platform apps and flutter packages, with an Android native and Node.JS backgrounds, have passion with writing clean, readable and maintainable code, solving problems, automate things in a productive way.
+A Flutter developer with 4 years of experience in the Flutter framework, with a background in native Android development, Node.js, Python, Kotlin and Java have a passion for writing clean, readable, testable and maintainable code, solving problems, and automating things.
 <p align='center'>
 <a href="moohammed.gaber@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
